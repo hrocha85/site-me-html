@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388.14 395.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #d0aa32;
+        stroke-miterlimit: 22.93;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        font-family: BenguiatBook, 'Benguiat Book';
+        font-size: 89.14px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #d0aa32;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #d0a932;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(86.31 316.48)"><tspan x="0" y="0">M&amp;E</tspan></text>
+  <ellipse class="cls-1" cx="197.27" cy="200.01" rx="184.31" ry="192.04"/>
+  <path class="cls-4" d="m209.66,95.29l.08-11.57c-.05-3.22-.04-6.46-.09-9.69l-20.77-10.26-19.38,11.03.14,75.4,15.54-8.41v75.82s8.85-.18,8.85-.18l.47-131.26,15.16,9.12Z"/>
+  <polygon class="cls-4" points="214.75 103.26 214.75 217.58 225.69 217.58 225.76 155.39 239.3 164.55 239.59 116.71 214.75 103.26"/>
+  <polygon class="cls-4" points="140.24 217.58 164.6 217.58 164.6 186.29 164.42 158.92 140.33 171.62 140.21 176.25 140.24 217.58"/>
+  <polygon class="cls-4" points="244.32 217.53 252.21 217.53 252.16 180.81 244.31 176.04 244.32 217.53"/>
+  <polygon class="cls-3" points="266.35 67.07 269.4 77.91 279.31 72.37 273.71 82.16 284.68 85.17 273.71 88.17 279.31 97.96 269.4 92.42 266.35 103.26 263.31 92.42 253.39 97.96 259 88.17 248.02 85.17 259 82.16 253.39 72.37 263.31 77.91 266.35 67.07"/>
+</svg>
